@@ -1,0 +1,1 @@
+ini adalah sistem yang saya buat menggunakan bahasa dart, sistem yang saya buat sendiri yaitu sistem yang dimana kita bisa mengecek siapa yang absen pada hari yang kita tulis.
